@@ -1,0 +1,160 @@
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./src/app/_components/dashboard/card/card.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************/
+.card_container__aChrV{
+    background-color: var(--bgSoft);
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    gap: 20px;
+    cursor: pointer;
+    width: 100%;
+}
+.card_container__aChrV:hover{
+    background-color: #2e374e;
+}
+.card_texts__QwMJ1{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.card_number__XldF4{
+    font-size: 24px;
+    font-weight: 500;
+}
+.card_details__fusLM{
+    font-size: 14px;
+    font-weight: 500;
+}
+.card_postive__4fNW2{
+    color: greenyellow;
+}
+.card_negative__um19l{
+    color: red;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./src/app/_components/dashboard/chart/chart.module.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************/
+.chart_container__tNMcI{
+    height: 450px;
+    background-color: var(--bgSoft);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.chart_title__K28Rs{
+    font-weight: 200;
+    color: var(--textSoft);
+    margin-bottom: 20px;
+}
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./src/app/_components/dashboard/rightbar/rightbar.module.css ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************/
+.rightbar_container__wU4U0{
+    position: fixed;
+}
+
+.rightbar_item__fD2aI{
+    background-color: linear-gradient(to top,#0c1528, #253352);
+    position: relative;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background-color: #253152;
+}
+.rightbar_bgContainer__tD1Ix{
+    position: absolute;
+    bottom: 0;
+    right: 0%;
+    
+}
+.rightbar_texts__mZrSY{
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+.rightbar_bg__2dcuP{
+    object-fit: contain;
+    opacity: 0.2;
+}
+.rightbar_head__DtFjQ{
+    font-weight: lighter;
+}
+.rightbar_subtitle__u8Lih{
+    font-weight: 500;
+    color: var(--textSoft);
+}
+
+.rightbar_notification___8LoH{
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--textSoft);
+}
+
+.rightbar_title__Q7v3B{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.rightbar_button__y_3f8{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+
+    gap: 10px;
+    background-color: #5d57c9;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: max-content;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./src/app/_components/dashboard/transaction/transaction.module.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************/
+.transaction_container__44723{
+    background-color: var(--bgSoft);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.transaction_title__yjBt5{
+    margin-bottom: 20px;
+    font-weight: 200;
+    color: var(--textSoft);
+}
+.transaction_table__2gFCg{
+    width: 100%;
+}
+
+.transaction_table__2gFCg td{
+    padding: 10px;
+}
+
+.transaction_user__YmQI_{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.transaction_userImage__t_HEY{
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.transaction_status__3m2ny{
+    padding: 5px;
+    font-size: 14px;
+    border-radius: 5px;
+    color: white;
+}
+.transaction_pending__ngErz{
+    background-color: #f7cb7375;
+}
+.transaction_done__AGkZl{
+    background-color: #afd6ee75;
+}
+.transaction_cancelled__1xX9c{
+    background-color: #f7737375;
+}

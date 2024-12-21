@@ -1,0 +1,17 @@
+.conatainer{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--textSoft);
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.conatainer p{
+    font-weight: 700;
+}
